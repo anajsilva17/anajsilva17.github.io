@@ -22,3 +22,23 @@ body  {
     height: auto;
     border-radius: 8px;
 }
+
+.infos{
+    flex: 2;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.infos h1{
+    font-size: 48px;
+    margin: 0;
+    color: rgb(31, 30, 32);
+}
+
+.infos h2{
+    font-size: 24px;
+    margin-top: 10px;
+    color: rgba(212, 166, 243, 0.329);
+}
