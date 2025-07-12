@@ -61,5 +61,10 @@ body  {
     display: grid;
     place-items: center;
     text-decoration: none;
-    color: rgba(140, 81, 196, 0.897);
+    color: rgba(160, 76, 185, 0.63);
+    border: 1.6px   solid rgba(160, 76, 185, 0.63);
+    font-size: 1.5rem;
+    border-radius: 50%;
+    padding: 0.39rem;
+    text-align: center;
 }
