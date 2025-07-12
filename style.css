@@ -68,3 +68,8 @@ body  {
     padding: 0.39rem;
     text-align: center;
 }
+
+.social a:hover{
+    color: rgb(162, 91, 228);
+    background-color: rgb(143, 96, 187);
+}
