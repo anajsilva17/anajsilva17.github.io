@@ -40,5 +40,10 @@ body  {
 .infos h2{
     font-size: 24px;
     margin-top: 10px;
-    color: rgba(212, 166, 243, 0.329);
+    color: rgba(141, 79, 182, 0.952);
+}
+
+.infos p{
+    font-size: 18px;
+    margin: 10px  0;
 }
