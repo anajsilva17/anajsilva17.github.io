@@ -121,7 +121,7 @@ footer p{
 /* Estilos para os títulos h2 dentro das seções "Sobre mim" e "Habilidades" */
 .sobre-mim h2, .habilidades h2 {
   font-size: 32px; /* Define o tamanho da fonte como 32 pixels */
-  color: gray; /* Define a cor do texto como cinza */
+  color: rgb(206, 100, 233); /* Define a cor do texto como cinza */
   margin-bottom: 10px; /* Adiciona uma margem de 10 pixels abaixo do título */
 }
 
@@ -144,7 +144,7 @@ footer p{
   content: "✔"; /* Insere o caractere de check (✔) antes do texto */
   position: absolute; /* Posiciona o check de forma absoluta em relação ao seu pai (.habilidades li) */
   left: 0; /* Alinha o check na borda esquerda do item */
-  color: black; /* Define a cor do check como preto */
+  color: rgb(220, 165, 236); /* Define a cor do check como preto */
 }
 
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
